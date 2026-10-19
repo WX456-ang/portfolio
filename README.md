@@ -80,6 +80,6 @@ python scripts/pdf_overview.py "C:\path\to\deck.pdf" ".review\overview.jpg" --co
 
 1. 打开仓库的 **Settings → Pages**；
 2. **Source** 选 `Deploy from a branch`，**Branch** 选 `main` + `/ (root)`，保存；
-3. 等一分钟，站点地址是 `https://wx456-ang.github.io/-/`。
+3. 等一分钟，站点地址是 `https://wx456-ang.github.io/portfolio/`。
 
 仓库里的 `.nojekyll` 让 Pages 原样输出文件（不经过 Jekyll 处理）。
